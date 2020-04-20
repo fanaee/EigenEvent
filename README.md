@@ -24,7 +24,7 @@ Pre-print: https://arxiv.org/abs/1406.3496
 -----------------------------  
 Authors  
 -----------------------------  
-Hadi Fanaee-T, Assistant Professor, Halmstad Unviersity, Sweden  
+Hadi Fanaee-T, Assistant Professor, Halmstad University, Sweden  
 Joao Gama, Professor, University of Porto, Portugal  
 
 -----------------------------  
