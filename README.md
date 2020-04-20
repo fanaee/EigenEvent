@@ -2,8 +2,7 @@
 About EigenEvent  
 ------------------------------  
 
-Disease outbreak prediction via Tensor/Matrix Decomposition
-For instance can be applied to pre-diagonstic signals for prediction of disease outbreaks such as COVID-19
+Disease outbreak prediction via Tensor/Matrix Decomposition. EigenEvent can be applied to pre-diagonstic signals for prediction of disease outbreaks (e.g. COVID-19).
 
 ------------------------------  
 Installation
